@@ -26,7 +26,7 @@ https://nodejs.org/ko/download/
 ## 📌 Expo 실행
 * npx expo start
 
-## ✅ 버전 오류 해결 방법 (신중히 시도)
+## ✅ 버전 오류 해결 방법 (아직 테스트중 확실한 방법 아님. 신중히 시도 바람)
 ### 1번
 * npm uninstall @expo/webpack-config
 ### 2번
