@@ -11,6 +11,17 @@ https://nodejs.org/ko/download/
 ## 📌 expo 다운로드 (선택)
 * npm install expo
 
+## 📌 라이브러리 설치
+* npm install react-native-chart-kit
+* npm install @react-native-async-storage/async-storage
+* npx expo install @react-native-async-storage/async-storage@1.17.11 react-native@0.71.14 (수정중)
+* npx expo install expo-font
+* npx expo install react-native-svg
+* npx expo install expo-linear-gradient
+* npm install victory
+* npm install victory-native
+* npx expo install react-native-svg
+
 ## 📌 Expo 실행
 * npx expo start
 
@@ -27,17 +38,6 @@ https://nodejs.org/ko/download/
 ## 📌 expo fix
 * npm audit fix
 * npm audit fix --force
-
-## 📌 라이브러리 설치
-* npm install react-native-chart-kit
-* npm install @react-native-async-storage/async-storage
-* npx expo install @react-native-async-storage/async-storage@1.17.11 react-native@0.71.14 (수정중)
-* npx expo install expo-font
-* npx expo install react-native-svg
-* npx expo install expo-linear-gradient
-* npm install victory
-* npm install victory-native
-* npx expo install react-native-svg
 
 ## npm 다운로드 (오류 시 시도)
 터미널창에서 npm install npx -g
