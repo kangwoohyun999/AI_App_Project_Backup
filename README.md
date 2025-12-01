@@ -8,7 +8,10 @@
 https://nodejs.org/ko/download/
 접속 후 20.xx.xx 버전 선택 후 다운로드
 
-## 📌 expo 다운로드 (선택)
+## 실행
+코드 들어간 파일 (ex : C:\Users\User\Downloads\TeamProject\PsyChat) 폴더로 이동 후 아래 단계 실행
+
+## 📌 expo 다운로드
 * npm install expo
 
 ## 📌 라이브러리 설치
