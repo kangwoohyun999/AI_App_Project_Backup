@@ -15,7 +15,7 @@ https://nodejs.org/ko/download/
 3. Expo 시작:
    npx expo start
 
-## 실행
+## 실행 (테스트 하면서 나온 방식)
 코드 들어간 파일 (ex : C:\Users\User\Downloads\TeamProject\PsyChat) 폴더로 이동 후 아래 단계 실행
 
 ## 📌 expo 다운로드
