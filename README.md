@@ -31,6 +31,7 @@ https://nodejs.org/ko/download/
 ## 📌 라이브러리 설치
 * npm install react-native-chart-kit
 * npm install @react-native-async-storage/async-storage
+* npx expo install @react-native-async-storage/async-storage@1.17.11 react-native@0.71.14 (수정중)
 * npx expo install expo-font
 * npx expo install react-native-svg
 * npx expo install expo-linear-gradient
