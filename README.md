@@ -8,11 +8,11 @@
 https://nodejs.org/ko/download/
 접속 후 20.xx.xx 버전 선택 후 다운로드
 
-## npm 다운로드
-터미널창에서 npm install npx -g
-
 ## 📌 expo 다운로드 (선택)
 * npm install expo
+
+## 📌 Expo 실행
+* npx expo start
 
 ## ✅ 버전 오류 해결 방법 (신중히 시도)
 ### 1번
@@ -39,8 +39,8 @@ https://nodejs.org/ko/download/
 * npm install victory-native
 * npx expo install react-native-svg
 
-## 📌 Expo 실행
-* npx expo start
+## npm 다운로드 (오류 시 시도)
+터미널창에서 npm install npx -g
 
 ## 🔧 설치/주의사항
 * react-native-chart-kit와 react-native-svg, @react-native-async-storage/async-storage가 필요합니다. (이전 package.json에 포함)
