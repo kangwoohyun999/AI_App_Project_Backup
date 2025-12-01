@@ -11,10 +11,10 @@ https://nodejs.org/ko/download/
 ## npm 다운로드
 터미널창에서 npm install npx -g
 
-## 📌 expo 다운로드 (굳이 안해도 됨)
+## 📌 expo 다운로드 (선택)
 * npm install expo
 
-## ✅ 버전 오류 해결 방법
+## ✅ 버전 오류 해결 방법 (신중히 시도)
 ### 1번
 * npm uninstall @expo/webpack-config
 ### 2번
