@@ -8,6 +8,13 @@
 https://nodejs.org/ko/download/
 접속 후 20.xx.xx 버전 선택 후 다운로드
 
+## 실행 방법 (공식 Version)
+1. Node.js 및 Expo CLI 설치
+2. 의존성 설치:
+   npm install
+3. Expo 시작:
+   npx expo start
+
 ## 실행
 코드 들어간 파일 (ex : C:\Users\User\Downloads\TeamProject\PsyChat) 폴더로 이동 후 아래 단계 실행
 
