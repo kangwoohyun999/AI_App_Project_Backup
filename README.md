@@ -1,39 +1,16 @@
 ## 인공지능앱개발 조별과제
 
-## 추천 주제 (바꿔도 됨)
-* AI 기반 캠퍼스 길찾기, POI 추천 앱
-* AI 뉴스 요약 & 키워드 추출 앱
-
 ## Node.js 다운로드
 https://nodejs.org/ko/download/
 접속 후 20.xx.xx 버전 선택 후 다운로드
 
-## 실행 방법 (공식 Version)
-1. Node.js 및 Expo CLI 설치
-2. 의존성 설치:
-   npm install
-3. Expo 시작:
-   npx expo start
-
-## 실행 (테스트 하면서 나온 방식)
-코드 들어간 파일 (ex : C:\Users\User\Downloads\TeamProject\PsyChat) 폴더로 이동 후 아래 단계 실행
+## npm 다운로드
+터미널창에서 npm install npx -g
 
 ## 📌 expo 다운로드
 * npm install expo
 
-## 📌 라이브러리 설치
-* npx expo install react-native-chart-kit
-* npx expo install @react-native-async-storage/async-storage
-* npx expo install expo-font
-* npx expo install react-native-svg
-* npx expo install expo-linear-gradient
-* npm install victory
-* npm install victory-native
-
-## 📌 Expo 실행
-* npx expo start
-
-## ✅ 버전 오류 해결 방법 (아직 테스트중 확실한 방법 아님. 신중히 시도 바람)
+## ✅ 버전 오류 해결 방법
 ### 1번
 * npm uninstall @expo/webpack-config
 ### 2번
@@ -47,8 +24,18 @@ https://nodejs.org/ko/download/
 * npm audit fix
 * npm audit fix --force
 
-## npm 다운로드 (오류 시 시도)
-터미널창에서 npm install npx -g
+## 📌 라이브러리 설치
+* npm install react-native-chart-kit
+* npm install @react-native-async-storage/async-storage
+* npx expo install expo-font
+* npx expo install react-native-svg
+* npx expo install expo-linear-gradient
+* npm install victory
+* npm install victory-native
+* npx expo install react-native-svg
+
+## 📌 Expo 실행
+* npx expo start
 
 ## 🔧 설치/주의사항
 * react-native-chart-kit와 react-native-svg, @react-native-async-storage/async-storage가 필요합니다. (이전 package.json에 포함)
